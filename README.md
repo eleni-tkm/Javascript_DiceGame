@@ -10,11 +10,11 @@
 
 -[Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
--[CSS: Flexbox Layout Guide] (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+-[CSS: Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
--[CSS: Grid Layout Guide] (https://css-tricks.com/snippets/css/complete-guide-grid/)
+-[CSS: Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
--[Introduction to the DOM] (https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+-[Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
--[JavaScript HTML DOM] (https://www.w3schools.com/JS/js_htmldom.asp)
+-[JavaScript HTML DOM](https://www.w3schools.com/JS/js_htmldom.asp)
 
